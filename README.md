@@ -1,3 +1,5 @@
+<div style="background-color:#0d112f; border-radius:12px; padding:30px; color:#c9d1d9;">
+
 <h1 align="center">Hi 👋, I'm Mahima</h1>
 <h3 align="center">A passionate frontend developer pursuing </h3>
 
@@ -38,10 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-
-
-  <img height="32" width="32" src="https://cdn.simpleicons.org/claude" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 </div>
 
 ###
@@ -105,7 +103,7 @@
 
 ### ☁️ Cloud, DevOps & Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
   <img width="12" />
@@ -133,8 +131,8 @@
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahima&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahima&theme=tokyonight" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahi397&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi397&theme=tokyonight" alt="GitHub Streak" height="150" />
 </p>
 
 ---
@@ -166,6 +164,9 @@
 <a href="https://instagram.com/mahi.m_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahi.m_m" height="30" width="40" /></a>
 </p>
 
-<!-- <h3 align="left">Support:</h3>
+<!-- 
+<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mahi397"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahi397" /></a></p><br><br>
 -->
+
+</div>
