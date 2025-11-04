@@ -43,8 +43,8 @@
 ---
 
 ### Adobe - *Software Development Engineer*  
-📍 Noida, India | July 2021 - August 2024  
-- Led the design and rollout of a **JavaScript parser and retrofitter** to automate Marketo’s onboarding to Adobe’s localization framework — achieving **30% cost savings** and earning a *Special Contribution Award*.  
+📍 India | July 2021 - August 2024  
+- Led the design and rollout of a **JavaScript parser and retrofitter** to automate Marketo’s onboarding to Adobe’s localization framework - achieving **30% cost savings** and earning a *Special Contribution Award*.  
 - Developed a **TypeScript-based linter** for static code analysis to detect localization issues in React codebases, reducing bugs by 20% and improving CI/CD reliability.  
 - Built a **JavaScript library** to detect unlocalizable strings during test automation, cutting QA effort by 25%.  
 - Authored an **i18n bug resolution playbook**, improving resolution times by 40% and developer self-sufficiency.  
@@ -52,7 +52,7 @@
 ---
 
 ### Samsung Research Institute - *Software Development Engineer*  
-📍 Noida, India | February 2021 - July 2021  
+📍 India | February 2021 - July 2021  
 - Contributed to the **Android Applications R&D team**, enhancing app performance and resolving **10+ high-impact bugs**.  
 - Participated in **Agile sprints**, ensuring comprehensive testing and optimization using **Java**.  
 
@@ -87,20 +87,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
 </div>
 
-*React • Node.js • Django • Flask • GraphQL • REST APIs • MongoDB • MySQL*
+*React • Node.js • Django • Flask • REST APIs • MongoDB • MySQL*
 
 ---
 
