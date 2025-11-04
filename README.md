@@ -1,35 +1,35 @@
 <div style="background-color:#14173a; border-radius:14px; padding:35px; color:#c9d1d9; font-family:Segoe UI, sans-serif;">
 
 <h1 align="center">Hello 👋, I'm Mahima</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center"> NYU'26 | GHC'25 | Software Engineer | Full-Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahimasachdeva/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn logo" />
   </a>
   <a href="https://www.instagram.com/mahi.m_m/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="Instagram logo" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" />
+  <a href="https://mahi397.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6E57E0?logo=About.me&logoColor=white&style=for-the-badge" height="30" alt="Portfolio logo" />
   </a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 MS in **Computer Engineering** at **New York University** (GPA 3.9/4)  
-- 💼 3.5+ years of professional experience across **Amazon**, **Adobe**, and **Samsung**  
+### About Me
+- 🎓 Pursuing MS in **Computer Engineering** at **New York University** (GPA 3.9/4)  
+- 💼 3.5+ years of professional experience across **Amazon**, **Adobe**, and **Samsung** 
 - 🚀 Passionate about **AI-integrated backend systems**, **full-stack development**, and **scalable cloud design**  
 - 🌱 Currently exploring **multimodal retrieval**, **LLM optimization**, and **serverless architectures**  
 - 🧩 I value clean architecture, deep thinking, and user-focused engineering  
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 <img src="https://img.shields.io/badge/Amazon-232F3E?logo=amazon&logoColor=white&style=flat-square" height="20"/>
-<img src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Adobe-ED2224?logo=adobe&logoColor=white&style=flat-square" height="20"/>
 <img src="https://img.shields.io/badge/Samsung-1428A0?logo=samsung&logoColor=white&style=flat-square" height="20"/>
 <img src="https://img.shields.io/badge/NYU-57068C?logo=nyu&logoColor=white&style=flat-square" height="20"/>
 
@@ -58,9 +58,9 @@
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
-### 🤖 AI / ML
+### AI / ML
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img width="12" />
@@ -75,11 +75,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" />
 </div>
 
-🧩 *Deep Learning • NLP • Transformers • RAG • Model Compression • Quantization • Knowledge Distillation • Inference Optimization*
+*Deep Learning • NLP • Transformers • RAG • Model Compression • Quantization • Knowledge Distillation • Inference Optimization*
 
 ---
 
-### 💻 Full-Stack Development
+### Full-Stack Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="12" />
@@ -100,11 +100,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
 </div>
 
-⚙️ *React • Node.js • Django • Flask • GraphQL • REST APIs • MongoDB • MySQL*
+*React • Node.js • Django • Flask • GraphQL • REST APIs • MongoDB • MySQL*
 
 ---
 
-### ☁️ Cloud, DevOps & Infrastructure
+### Cloud, DevOps & Infrastructure
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" />
   <img width="12" />
@@ -117,11 +117,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
 </div>
 
-☁️ *AWS (S3, Lambda, SageMaker, CDK) • Docker • Kubernetes • CI/CD • Microservices • CUDA/cuDNN*
+*AWS (S3, Lambda, SageMaker, CDK) • Docker • Kubernetes • CI/CD • Microservices • CUDA/cuDNN*
 
 ---
 
-### 🎨 Design & Tools
+### Design & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
   <img width="12" />
@@ -132,29 +132,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" height="30" />
 </div>
 
-🎨 *Figma • Photoshop • Illustrator • Adobe XD*
+*Figma • Photoshop • Illustrator • Adobe XD*
 
 ---
 
-## 📊 GitHub Highlights
+## GitHub Highlights
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahi397&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahi397&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 RAG-VLM
+### RAG-VLM
 Built a **multimodal RAG pipeline** combining CLIP embeddings, FAISS retrieval, and a lightweight VLM generator to answer image-text queries with grounded evidence.  
 🟣 *Improved Recall@10 by 25% over BM25 baseline.*
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Multimodal Search (Pruned & Quantized)
+### Multimodal Search (Pruned & Quantized)
 Implemented **structured pruning and post-training quantization** for a multimodal reranker.  
 🟣 *Reduced model size by 3× and latency by 50% with 98% baseline accuracy.*
 
@@ -164,13 +164,13 @@ Implemented **structured pruning and post-training quantization** for a multimod
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Exam Accessibility Assistant
+### Exam Accessibility Assistant
 Offline exam reader app for students with reading impairments using **OCR + TTS**, with 100% on-device operation and voice-based input.
 
 </td>
 <td width="50%" valign="top">
 
-### 🚢 CruiseInc
+### CruiseInc
 Full-stack **cruise booking system** (React + Django + MySQL) with admin dashboard, caching, and query optimizations.  
 🟣 *Improved query performance by 40%.*
 
@@ -180,11 +180,6 @@ Full-stack **cruise booking system** (React + Django + MySQL) with admin dashboa
 
 ---
 
-<p align="center">✨ Building scalable, data-driven, and impactful systems. One commit at a time ✨</p>
-
-<h4>
-  <img src="https://img.shields.io/badge/Amazon-232F3E?logo=amazon&logoColor=white&style=flat-square" height="20"/>
-  &nbsp; Software Development Engineer Intern | New York, USA (May–Aug 2025)
-</h4>
+<p align="center">✨ Building scalable, aesthetic, and impactful systems. One commit at a time ✨</p>
 
 </div>
