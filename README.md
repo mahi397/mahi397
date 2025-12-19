@@ -174,6 +174,28 @@ Full-stack **cruise booking system** (React + Django + MySQL) with admin dashboa
 
 ---
 
+## Research Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Distribution-Aware Companding Quantization
+Designed a post-training quantization method combining activation-aware scaling (AWQ) with logistic CDF-based non-uniform quantization. Evaluated on LLaMA-3-8B and Qwen-2.5-7B, achieving lower weight reconstruction error while maintaining competitive perplexity and accuracy.   
+
+</td>
+<td width="50%" valign="top">
+
+### Representation-Aligned Diffusion Models for Robust Image Editing
+Applied REPresentation Alignment to Image Editing by aligning intermediate diffusion features with SigLIP/DINOv2 embeddings to preserve global structure and improve instruction fidelity in local edits. The results showed reduced semantic drift, better global structure preservation, and improved locality of edits.
+
+</td>
+</tr>
+
+</table>
+
+---
+
+
 <p align="center">✨ Building scalable, aesthetic, and impactful systems. One commit at a time ✨</p>
 
 </div>
