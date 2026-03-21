@@ -10,7 +10,7 @@
   <!-- <a href="https://www.instagram.com/mahi.m_m/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="Instagram logo" />
   </a> -->
-  <a href="https://mahimasachdeva.github.io/" target="_blank">
+  <a href="https://www.mahimasachdeva.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6E57E0?logo=About.me&logoColor=white&style=for-the-badge" height="30" alt="Portfolio logo" />
   </a>
 </p>
