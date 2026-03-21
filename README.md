@@ -1,16 +1,16 @@
 <div style="background-color:#14173a; border-radius:14px; padding:35px; color:#c9d1d9; font-family:Segoe UI, sans-serif;">
 
-<h1 align="center">Hello 👋, I'm Mahima</h1>
+<h1 align="center">Hello, I'm Mahima</h1>
 <h3 align="center"> NYU'26 | GHC'25 | Software Engineer | Full-Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahimasachdeva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.instagram.com/mahi.m_m/" target="_blank">
+  <!-- <a href="https://www.instagram.com/mahi.m_m/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="Instagram logo" />
-  </a>
-  <a href="https://mahi397.github.io/" target="_blank">
+  </a> -->
+  <a href="https://mahimasachdeva.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6E57E0?logo=About.me&logoColor=white&style=for-the-badge" height="30" alt="Portfolio logo" />
   </a>
 </p>
@@ -18,8 +18,8 @@
 ---
 
 ### About Me
-- 🎓 Pursuing MS in **Computer Engineering** at **New York University** (GPA 3.9/4)  
-- 💼 3.5+ years of professional experience across **Amazon**, **Adobe**, and **Samsung** 
+- 🎓 Pursuing MS in **Computer Engineering** at **New York University**  
+- 💼 3.5 years of professional experience across **Amazon**, **Adobe**, and **Samsung** 
 - 🚀 Passionate about **AI-integrated backend systems**, **full-stack development**, and **scalable cloud design**  
 - 🌱 Currently exploring **multimodal retrieval**, **LLM optimization**, and **serverless architectures**  
 - 🧩 I value clean architecture, deep thinking, and user-focused engineering  
